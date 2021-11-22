@@ -1,0 +1,16 @@
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\Blacklist.exe
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\Blacklist.deps.json
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\Blacklist.runtimeconfig.json
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\Blacklist.runtimeconfig.dev.json
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\Blacklist.dll
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\ref\Blacklist.dll
+C:\Code\Blacklist\Blacklist\bin\Debug\net5.0\Blacklist.pdb
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.csproj.AssemblyReference.cache
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.AssemblyInfoInputs.cache
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.AssemblyInfo.cs
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.csproj.CoreCompileInputs.cache
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.dll
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\ref\Blacklist.dll
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.pdb
+C:\Code\Blacklist\Blacklist\obj\Debug\net5.0\Blacklist.genruntimeconfig.cache
